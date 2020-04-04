@@ -2,8 +2,8 @@ Pytorch
 transformers
 matplotlib
 pandas
-numpy as np
-tensorflow as tf
+numpy
+tensorflow 
 keras 
 wordcloud 
 torch
